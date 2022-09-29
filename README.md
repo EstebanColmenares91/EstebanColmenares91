@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Esteban Colmenares
-#### Front-end Developer
+# Hi there 👋, I'm Esteban Colmenares
+## Front-end Developer
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,7 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About me
+
+### About me
 
 ------------
 
@@ -21,23 +22,24 @@ I love languages so much so that I speak Spanish, English and French (still stud
 
 Outside coding I love to do sports⚽, play videogames🎮, watch some anime and series. Also, I love music and I hope one day play the guitar.🎵🎸
 
-🌱 I’m currently learning
+
+### 🌱 I’m currently learning
 ------------
 - ReactJS
 
-Little description of my experience
+### Little description of my experience
 -----------------
 Along this year I've studied JavaScript hardly from the beginning stuff like variables, closures, scopes, async n' await and I practiced all those concepts with the projets from only HTML and CSS. And step by step I added JS to those projects with DOM manipulation and fetching APIs. Those projects you could see them here: https://github.com/EstebanColmenares91?tab=repositories.
 
-Courses I've completed at Platzi
+### Courses I've completed at Platzi
 -----------
 https://platzi.com/p/ColmenarEsteban91/
 
-📫 How to reach me
+### 📫 How to reach me
 -------------------
 📩Email: estebancode91@gmail.com
 
-Front-End Tecnologies
+### Front-End Tecnologies
 ---------------
 ![html_48x48](https://user-images.githubusercontent.com/96037539/192933060-ab2e5602-4241-46b9-8ee9-2e82cdca7e6a.png)
 ![javascript_48x48](https://user-images.githubusercontent.com/96037539/192933075-8867cdbf-fe9e-4c4b-a980-d250fa5a7285.png)
