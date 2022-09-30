@@ -34,17 +34,15 @@ Hobbies:
 
 ### Little description of my experience
 -----------------
-Since 2021 I have been studying HTML5 and CSS3 and at the beginning of 2022 I started JavaScript from the beginning with stuff like variables, closures, scopes, async n' await, how v8 works and I practiced all those concepts with the projets starting with HTML5 and CSS3 only. And step by step I added JS to those projects with DOM manipulation and fetching APIs. Those projects you could see them here: https://github.com/EstebanColmenares91?tab=repositories.
+Since 2021 I have been studying HTML5 and CSS3 and at the beginning of 2022 I started JavaScript with stuff like variables, closures, scopes, async n' await, and how v8 works and I practiced all those concepts with the projects starting with HTML5 and CSS3 only. And step by step I added JS to those projects with DOM manipulation and fetching APIs. Those projects you could see them here: https://github.com/EstebanColmenares91?tab=repositories.
 
-At July I participated in a inventory system with UX/UI then I applied HTML5, CSS3 and JavaScript
+In July 2022 I participated in an inventory system working on the UX/UI then I applied HTML5, CSS3, and JavaScript.
 
 ### Courses I've completed at Platzi
 -----------
 https://platzi.com/p/ColmenarEsteban91/
 
-### 📫 How to reach me
--------------------
-📩Email: estebancode91@gmail.com
+📫 How to reach me: estebancode91@gmail.com
 
 ### Front-End Tecnologies
 ---------------
